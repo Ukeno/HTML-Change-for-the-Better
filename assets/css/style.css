@@ -1,16 +1,16 @@
 nav,
 .nav {
-    color: white;
-    background: linear-gradient(aqua, black);
+    color: rgb(233, 224, 224);
+    background: linear-gradient(rgb(57, 136, 136), rgb(79, 146, 158));
 }
 
 main,
 .main {
-    background: linear-gradient(aqua, rgb(211, 25, 25));
+    background: linear-gradient(rgb(171, 117, 194), rgb(211, 25, 25));
 }
 
 .banner {
-    width: 100%;
+    min-width: 100%;
     height: auto;
 }
 
